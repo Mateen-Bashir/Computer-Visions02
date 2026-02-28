@@ -3,6 +3,7 @@
 This repository contains multiple Computer Vision mini-projects implemented using Python, OpenCV, NumPy, Matplotlib, and Scikit-Image in Jupyter Notebook.
 
 📌 Initial Image Processing Operations
+
 ✔ Basic Image Handling
 
 Load image using OpenCV
@@ -18,6 +19,7 @@ Display using Matplotlib subplots
 Save processed images
 
 🚀 Implemented Features
+
 1️⃣ Image Quality Enhancer (Social Media Ready)
 
 Automatic brightness & contrast adjustment
@@ -71,6 +73,7 @@ Replace region in original image
 Save protected image
 
 🆕 Additional Implemented Tasks
+
 6️⃣ Custom Image Watermarking Tool
 
 Load main image + PNG watermark
